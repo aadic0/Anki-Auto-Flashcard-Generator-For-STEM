@@ -1,0 +1,8 @@
+{
+    "package": "anki_auto_flashcard_generator_for_stem",
+    "name": "LLM Flashcard Generator For STEM",
+    "mod": 1,
+    "author": "Aadi",
+    "version": "0.1.0",
+    "description": "Generates Anki flashcards from PDFs using an LLM suited and prompted with STEM knowledge. Meant specifically for local deployments and not meant to be published."
+}

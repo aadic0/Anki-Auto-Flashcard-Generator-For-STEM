@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+dist/
+build/
+*.spec
+
+config.json
+
+.vscode/
+.idea/
+
+*.log
+
+*~
+*.bak
